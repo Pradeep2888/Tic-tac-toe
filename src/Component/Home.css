@@ -1,0 +1,30 @@
+.row1{
+    border: 1px solid red;
+    display: flex;
+}
+.row2{
+    border: 1px solid red;
+    display: flex;
+}
+.row3{
+    border: 1px solid red;
+    display: flex;
+}
+.row1>div{
+    border: 1px solid blue;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+}
+.row2>div{
+    border: 1px solid blue;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+}
+.row3>div{
+    border: 1px solid blue;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+}
